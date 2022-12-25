@@ -76,7 +76,7 @@ class _LoginPageState extends State<LoginPage> {
         ),
         addTextLast(),
         SizedBox(
-          height: 20,
+          height: 10,
         ),
         _addButton('Đăng nhập', _currenSize),
         // SizedBox(
